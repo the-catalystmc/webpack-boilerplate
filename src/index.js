@@ -1,6 +1,6 @@
 import _ from 'lodash';
-import './style.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './style.scss';
+import 'bootstrap';
 
 
 function component() {
